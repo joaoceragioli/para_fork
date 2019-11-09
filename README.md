@@ -1,2 +1,1 @@
-# para_fork
-Apenas para teste de fork
+VAI TOMA NO C
